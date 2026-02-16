@@ -387,7 +387,6 @@ textarea {
   font-weight: 500;
   font-family: monospace;
   line-height: 1.3;
-  letter-spacing: 80%;
 }
 
 .textfield {
